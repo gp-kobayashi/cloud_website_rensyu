@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 30px;
+  padding: 10px 0;
+  border-bottom: 2px solid #ccc;
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 0 40px;
+}
