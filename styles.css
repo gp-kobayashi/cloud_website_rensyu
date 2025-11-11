@@ -27,7 +27,8 @@
 
 .container {
   width: 90%;
-  margin: 150px 40px;
+  margin: 150px auto;
+  max-width: 800px;
   text-align: left;
   color: #434242ff;
 }
